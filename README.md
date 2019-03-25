@@ -1,6 +1,6 @@
 # [SUBSCRIBE TO THIS FACEBOOK GROUP WHERE I ADD NEWS AND UPDATES](https://www.facebook.com/groups/mathfordatascience/)
 
-### Update: big evolutions are planned, and I'm creating a Telegram group with contributors, if you want to join just e-mail me at giacomo.ciarlini@student.unife.it
+### Update: big evolutions are planned, and I'm creating a Telegram group with contributors if you want to join just e-mail me at giacomo.ciarlini@student.unife.it
 
 Studying through the Internet means swimming in an infinite ocean of information. 
 
@@ -9,7 +9,7 @@ Have you ever felt overwhelmed when trying to approach a new subject without a r
 Hi, I'm Giacomo. 
 
 I'm an Italian student currently having a stage in a shiny Machine Learning and AI startup in Bologna.
-My boss asked me if it was possible to create a study path for newcomers and myself, and I've contributed all my years of browsing around the internet for resources here. I have collected **sources, projects, awesome tools, tutorial, links, best practices in the ML field, and organized them in an awesome and usable way**.
+My boss asked me if it was possible to create a study path for newcomers and myself, and I've contributed all my years of browsing around the internet for resources here. I have collected **sources, projects, awesome tools, tutorials, links, best practices in the ML field, and organized them in an awesome and usable way**.
 
 This repository is intended to provide three **complete and organic learning paths** for the following fields:
 
